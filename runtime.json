@@ -1,0 +1,28 @@
+{
+  "name": "regenerator-runtime-only",
+  "version": "0.0.9",
+  "description": "Just the runtime part of regenerator",
+  "keywords": [
+    "generator",
+    "yield",
+    "coroutine",
+    "rewriting",
+    "transformation",
+    "syntax",
+    "codegen",
+    "rewriting",
+    "refactoring",
+    "transpiler",
+    "desugaring",
+    "ES6"
+  ],
+  "dependencies": {
+    "es6-symbol": "^2.0.1",
+    "promise": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/regenerator-runtime-only.git"
+  },
+  "license": "BSD"
+}
