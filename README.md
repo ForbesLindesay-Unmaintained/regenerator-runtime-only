@@ -2,7 +2,7 @@
 
 Just the runtime part of regenerator.  If your publishing a module to npm that relies on `regenerator`, This allows you to include the runtime without also making people download the entire regenerator library (complete with AST transformers and parsers etc.).
 
-This module is automatically re-built and published by a bot that polls npm every 10 minutes.  You can check the status of the bot by navigating to [regenerator-runtime-bot.jepso.com](https://regenerator-runtime-bot.jepso.com)
+This module is automatically re-built and published by a bot that polls npm every 10 minutes.  You can check the status of the bot by navigating to [regenerator-runtime-only.jepso.com](https://regenerator-runtime-only.jepso.com)
 
 ## Installation
 
